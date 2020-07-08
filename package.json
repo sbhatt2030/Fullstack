@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/sbhatt2030/Fullstack/issues"
   },
-  "homepage": "https://github.com/sbhatt2030/Fullstack#readme"
+  "homepage": "https://github.com/sbhatt2030/Fullstack#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
 }
