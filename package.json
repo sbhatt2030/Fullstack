@@ -1,0 +1,21 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run browser-sync",
+    "browser-sync": "browser-sync start --server --directory --files '*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbhatt2030/Fullstack.git"
+  },
+  "author": "Shivam Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbhatt2030/Fullstack/issues"
+  },
+  "homepage": "https://github.com/sbhatt2030/Fullstack#readme"
+}
